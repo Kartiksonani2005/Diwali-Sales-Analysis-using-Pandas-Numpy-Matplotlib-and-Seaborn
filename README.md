@@ -58,7 +58,7 @@ By focusing on demographics and spending patterns, businesses can design targete
 How to Run:
 
 Clone the repository:
-git clone https://github.com/<your-username>/Diwali-Sales-EDA.git
+git clone[ https://github.com/<your-username>/Diwali-Sales-EDA.git](https://github.com/Kartiksonani2005/Diwali-Sales-Analysis-using-Pandas-Numpy-Matplotlib-and-Seaborn.git)
 
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
